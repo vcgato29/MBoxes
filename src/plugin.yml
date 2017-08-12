@@ -1,0 +1,8 @@
+version: 1.0
+author: OriginalsByToto
+name: MinAnceMBOXES
+main: com.originalsbytoto.bukkit.minance.mboxes.MBOXES
+commands:
+  mboxes:
+    usage: /mboxes [params]
+    description: MinAnce GIFTBOXES
